@@ -6,8 +6,7 @@ An app designed to simulate a lightsaber with a phone's accelerometer and lights
 - Practice lightsaber skills
 
 ## 📷 Preview
-<img src="previews/lightsaber_off.jpeg" alt="lightsaber off" width="200"/>
-<img src="previews/lightsaber_on.jpeg" alt="lightsaber on" width="200"/>
+<img src="previews/lightsaber_off.jpeg" alt="lightsaber off" width="200"/> <img src="previews/lightsaber_on.jpeg" alt="lightsaber on" width="200"/>
 
 ## 💡 Functionality
 The lightsaber has four different events with their respective sounds. 
